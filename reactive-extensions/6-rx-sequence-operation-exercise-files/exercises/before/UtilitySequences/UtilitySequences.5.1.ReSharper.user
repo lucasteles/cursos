@@ -1,0 +1,90 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="CA009A04-F71B-477C-B556-16D4324A488F/f:Program.cs" caret="289" fromTop="14" />
+      <File id="9759D0E7-EAA8-455E-9652-02888F0A534D/f:Program.cs" caret="260" fromTop="13" />
+      <File id="F0121F50-9FF3-4466-9A8B-BAD074D7539B/f:Program.cs" caret="299" fromTop="13" />
+      <File id="26C2C1E2-3A66-46E2-BD98-77F0C1188149/f:Program.cs" caret="287" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9759D0E7-EAA8-455E-9652-02888F0A534D/f:Program.cs" caret="310" fromTop="17" />
+      <File id="F0121F50-9FF3-4466-9A8B-BAD074D7539B/f:Program.cs" caret="351" fromTop="17" />
+      <File id="26C2C1E2-3A66-46E2-BD98-77F0C1188149/f:Program.cs" caret="361" fromTop="21" />
+      <File id="CA009A04-F71B-477C-B556-16D4324A488F/f:Program.cs" caret="178" fromTop="6" />
+      <File id="CA009A04-F71B-477C-B556-16D4324A488F/f:Program.cs" caret="289" fromTop="14" />
+      <File id="9759D0E7-EAA8-455E-9652-02888F0A534D/f:Program.cs" caret="260" fromTop="13" />
+      <File id="F0121F50-9FF3-4466-9A8B-BAD074D7539B/f:Program.cs" caret="299" fromTop="13" />
+      <File id="26C2C1E2-3A66-46E2-BD98-77F0C1188149/f:Program.cs" caret="287" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="4" />
+      <Item value="ObservableExtensions`0" priority="0" />
+      <Item value="int" priority="4" />
+      <Item value="sequence" priority="2" />
+      <Item value="Console`0" priority="2" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="Observable`0" priority="2" />
+      <Item value="class" priority="1" />
+      <Item value="public" priority="1" />
+      <Item value="DataWrapper`0" priority="1" />
+      <Item value="_value" priority="1" />
+      <Item value="value" priority="0" />
+      <Item value="return" priority="0" />
+      <Item value="Value" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="data" priority="0" />
+      <Item value="Scheduler`0" priority="0" />
+      <Item value="scheduler" priority="1" />
+      <Item value="using" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Threading" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Subscribe`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reactive.Concurrency.Scheduler">
+      <Item value="NewThread" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reactive.Linq.Observable">
+      <Item value="Return`1" priority="3" />
+      <Item value="Repeat`1" priority="0" />
+      <Item value="Empty`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IDisposable">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

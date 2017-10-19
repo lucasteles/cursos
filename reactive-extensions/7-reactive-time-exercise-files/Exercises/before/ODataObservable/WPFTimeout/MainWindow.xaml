@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock>Release Year:</TextBlock>
+            <TextBox Name="ReleaseYear" Width="100"></TextBox>
+            <TextBlock>Elapsed</TextBlock>
+            <TextBox Name="Elapsed" IsReadOnly="True"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock>Timeout Info: </TextBlock>
+            <TextBox IsReadOnly="true" Name="TimeoutInfo"/>
+        </StackPanel>
+        <Button Name="Start" HorizontalAlignment="Center" Click="Start_Click">Start</Button>
+        <TextBlock HorizontalAlignment="Center">Results</TextBlock>
+        <ListBox Name="Results" Height="200" ScrollViewer.HorizontalScrollBarVisibility="auto"/>
+        <Button Name="Stop" HorizontalAlignment="Center" Click="Stop_Click">Stop</Button>
+    </StackPanel>
+</Window>

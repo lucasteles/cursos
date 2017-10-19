@@ -1,0 +1,62 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="06A34852-0D44-4798-9AFE-51108065C9DB/f:Program.cs" caret="295" fromTop="14" />
+      <File id="DE304987-B10C-468F-A765-970FEF8865D9/f:RegexObservableFile.cs" caret="442" fromTop="12" />
+      <File id="1EEE15B4-6D16-4B59-8472-DA71BDE7FC9D/f:Program.cs" caret="520" fromTop="18" />
+      <File id="97DAE1FE-8882-41E6-A5F9-92FF45A3B784/f:Program.cs" caret="346" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="06A34852-0D44-4798-9AFE-51108065C9DB/f:Program.cs" caret="607" fromTop="18" />
+      <File id="1EEE15B4-6D16-4B59-8472-DA71BDE7FC9D/f:Program.cs" caret="289" fromTop="13" />
+      <File id="97DAE1FE-8882-41E6-A5F9-92FF45A3B784/f:Program.cs" caret="587" fromTop="16" />
+      <File id="06A34852-0D44-4798-9AFE-51108065C9DB/f:Program.cs" caret="560" fromTop="20" />
+      <File id="DE304987-B10C-468F-A765-970FEF8865D9/f:RegexObservableFile.cs" caret="62" fromTop="0" />
+      <File id="DE304987-B10C-468F-A765-970FEF8865D9/f:RegexObservableFile.cs" caret="814" fromTop="22" />
+      <File id="97DAE1FE-8882-41E6-A5F9-92FF45A3B784/f:Program.cs" caret="304" fromTop="11" />
+      <File id="1EEE15B4-6D16-4B59-8472-DA71BDE7FC9D/f:Program.cs" caret="520" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="7" />
+      <Item value="from" priority="0" />
+      <Item value="Enumerable`0" priority="0" />
+      <Item value="start" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="number" priority="0" />
+      <Item value="seq2" priority="1" />
+      <Item value="seq1" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="IndexOutOfRangeException`0" priority="0" />
+      <Item value="index" priority="0" />
+      <Item value="sequence" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Concat`1" priority="1" />
+      <Item value="Subscribe`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

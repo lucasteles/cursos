@@ -1,0 +1,403 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E10AE18A-1367-4193-9592-96791E524C41/d:Service References/d:Netflix/f:Reference.cs" caret="2599" fromTop="0" />
+      <File id="F09F6FC5-2829-4848-8130-5416CA4AA03B/f:MainWindow.xaml" caret="520" fromTop="6" />
+      <File id="E10AE18A-1367-4193-9592-96791E524C41/f:MainWindow.xaml" caret="955" fromTop="13" />
+      <File id="C4DF9DDF-2878-4A8D-B16E-33DEA8BA8908/f:MainWindow.xaml" caret="248" fromTop="4" />
+      <File id="B72B0CD9-41FA-4978-926D-0475A1F6BED4/f:Program.cs" caret="160" fromTop="9" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml" caret="655" fromTop="4" />
+      <File id="A073A7A9-61E7-4873-BDE4-BB4B8E05A4BA/f:MainWindow.xaml.cs" caret="2469" fromTop="24" />
+      <File id="C4DF9DDF-2878-4A8D-B16E-33DEA8BA8908/f:MainWindow.xaml.cs" caret="2286" fromTop="24" />
+      <File id="F09F6FC5-2829-4848-8130-5416CA4AA03B/f:MainWindow.xaml.cs" caret="13" fromTop="0" />
+      <File id="CFA3E6CA-DA36-4521-87DB-F4C9B47C499A/f:Program.cs" caret="779" fromTop="23" />
+      <File id="E10AE18A-1367-4193-9592-96791E524C41/f:MainWindow.xaml.cs" caret="0" fromTop="0" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="1644" fromTop="24" />
+      <File id="A40923E9-437B-4C70-9373-DA600A6AE1E1/f:ODataSequence.cs" caret="373" fromTop="12" />
+      <File id="F0CF01EA-4192-46E1-A171-DC052CA0EB4F/f:Program.cs" caret="498" fromTop="16" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A40923E9-437B-4C70-9373-DA600A6AE1E1/f:ODataSequence.cs" caret="1865" fromTop="7" />
+      <File id="A40923E9-437B-4C70-9373-DA600A6AE1E1/f:ODataSequence.cs" caret="1095" fromTop="4" />
+      <File id="A40923E9-437B-4C70-9373-DA600A6AE1E1/f:ODataSequence.cs" caret="1213" fromTop="10" />
+      <File id="A073A7A9-61E7-4873-BDE4-BB4B8E05A4BA/f:MainWindow.xaml.cs" caret="123" fromTop="3" />
+      <File id="B72B0CD9-41FA-4978-926D-0475A1F6BED4/f:Program.cs" caret="695" fromTop="18" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="3214" fromTop="17" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="2558" fromTop="8" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="429" fromTop="5" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="1182" fromTop="13" />
+      <File id="A40923E9-437B-4C70-9373-DA600A6AE1E1/f:ODataSequence.cs" caret="15" fromTop="1" />
+      <File id="A40923E9-437B-4C70-9373-DA600A6AE1E1/f:ODataSequence.cs" caret="3196" fromTop="24" />
+      <File id="F0CF01EA-4192-46E1-A171-DC052CA0EB4F/f:Program.cs" caret="0" fromTop="0" />
+      <File id="CFA3E6CA-DA36-4521-87DB-F4C9B47C499A/f:Program.cs" caret="0" fromTop="0" />
+      <File id="A073A7A9-61E7-4873-BDE4-BB4B8E05A4BA/f:MainWindow.xaml.cs" caret="3081" fromTop="28" />
+      <File id="A073A7A9-61E7-4873-BDE4-BB4B8E05A4BA/f:MainWindow.xaml.cs" caret="15" fromTop="1" />
+      <File id="A073A7A9-61E7-4873-BDE4-BB4B8E05A4BA/f:MainWindow.xaml.cs" caret="2469" fromTop="24" />
+      <File id="C4DF9DDF-2878-4A8D-B16E-33DEA8BA8908/f:MainWindow.xaml.cs" caret="15" fromTop="1" />
+      <File id="C4DF9DDF-2878-4A8D-B16E-33DEA8BA8908/f:MainWindow.xaml.cs" caret="2448" fromTop="24" />
+      <File id="C4DF9DDF-2878-4A8D-B16E-33DEA8BA8908/f:MainWindow.xaml.cs" caret="2286" fromTop="24" />
+      <File id="F09F6FC5-2829-4848-8130-5416CA4AA03B/f:MainWindow.xaml.cs" caret="3076" fromTop="24" />
+      <File id="F09F6FC5-2829-4848-8130-5416CA4AA03B/f:MainWindow.xaml.cs" caret="2816" fromTop="24" />
+      <File id="F09F6FC5-2829-4848-8130-5416CA4AA03B/f:MainWindow.xaml.cs" caret="13" fromTop="0" />
+      <File id="E10AE18A-1367-4193-9592-96791E524C41/f:MainWindow.xaml.cs" caret="13" fromTop="0" />
+      <File id="E10AE18A-1367-4193-9592-96791E524C41/f:MainWindow.xaml.cs" caret="2313" fromTop="24" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="940" fromTop="19" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="37" fromTop="1" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="2263" fromTop="14" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="2021" fromTop="19" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="2353" fromTop="19" />
+      <File id="8334D381-CBC3-4C03-8DED-8436392BD370/f:MainWindow.xaml.cs" caret="2771" fromTop="30" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="28" />
+      <Item value="NetflixOdata" priority="0" />
+      <Item value="NetflixCatalog`0" priority="5" />
+      <Item value="from" priority="4" />
+      <Item value="netflix" priority="5" />
+      <Item value="select" priority="4" />
+      <Item value="title" priority="8" />
+      <Item value="foreach" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="Console`0" priority="8" />
+      <Item value="new" priority="13" />
+      <Item value="Uri" priority="1" />
+      <Item value="count" priority="2" />
+      <Item value="where" priority="3" />
+      <Item value="while" priority="0" />
+      <Item value="taken" priority="0" />
+      <Item value="orderby" priority="0" />
+      <Item value="ODataObservable" priority="0" />
+      <Item value="Title`0" priority="12" />
+      <Item value="sequence" priority="1" />
+      <Item value="done" priority="2" />
+      <Item value="titleQuery" priority="1" />
+      <Item value="int" priority="8" />
+      <Item value="Scheduler`0" priority="9" />
+      <Item value="Thread`0" priority="1" />
+      <Item value="_netflix" priority="7" />
+      <Item value="NetflixCatalog" priority="0" />
+      <Item value="if" priority="4" />
+      <Item value="ReleaseYear" priority="3" />
+      <Item value="StateChanged" priority="0" />
+      <Item value="SelectedCellsChangedEventArgs`0" priority="1" />
+      <Item value="Start" priority="2" />
+      <Item value="false" priority="4" />
+      <Item value="Stop" priority="2" />
+      <Item value="true" priority="5" />
+      <Item value="Results" priority="8" />
+      <Item value="IDisposable`0" priority="5" />
+      <Item value="_runningQuery" priority="4" />
+      <Item value="string" priority="4" />
+      <Item value="timestamp" priority="3" />
+      <Item value="private" priority="4" />
+      <Item value="DateTimeOffset`0" priority="9" />
+      <Item value="_queryStartTime" priority="1" />
+      <Item value="ToString`0" priority="0" />
+      <Item value="Observable`0" priority="7" />
+      <Item value="TimeSpan`0" priority="7" />
+      <Item value="double" priority="0" />
+      <Item value="Rate" priority="0" />
+      <Item value="timerSequence" priority="1" />
+      <Item value="long" priority="3" />
+      <Item value="ref" priority="1" />
+      <Item value="r" priority="0" />
+      <Item value="seq" priority="2" />
+      <Item value="buffer" priority="0" />
+      <Item value="tseq" priority="0" />
+      <Item value="IQueryable`0" priority="1" />
+      <Item value="_titlesQuery" priority="3" />
+      <Item value="else" priority="2" />
+      <Item value="void" priority="4" />
+      <Item value="t" priority="2" />
+      <Item value="Timestamp" priority="1" />
+      <Item value="TimeInterval" priority="4" />
+      <Item value="e" priority="0" />
+      <Item value="ex1" priority="0" />
+      <Item value="Timestamped" priority="1" />
+      <Item value="Title" priority="0" />
+      <Item value="ts" priority="1" />
+      <Item value="ThreadPoolScheduler`0" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="this" priority="7" />
+      <Item value="ValidationResult`0" priority="0" />
+      <Item value="public" priority="2" />
+      <Item value="bool" priority="1" />
+      <Item value="_disposed" priority="0" />
+      <Item value="CanIContinue" priority="4" />
+      <Item value="State" priority="3" />
+      <Item value="IObservable" priority="3" />
+      <Item value="TEntry`0" priority="5" />
+      <Item value="TODataReference`0" priority="2" />
+      <Item value="Queryable`0" priority="2" />
+      <Item value="iterator" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="_myquery" priority="3" />
+      <Item value="query" priority="7" />
+      <Item value="skip" priority="3" />
+      <Item value="oDataReference" priority="2" />
+      <Item value="MakeODataObservableSequence`0" priority="2" />
+      <Item value="_mydataref" priority="2" />
+      <Item value="_myskip" priority="1" />
+      <Item value="null" priority="1" />
+      <Item value="obs" priority="0" />
+      <Item value="TextInputEvent" priority="0" />
+      <Item value="Exception`0" priority="1" />
+      <Item value="TimeoutException`0" priority="1" />
+      <Item value="ee" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="_totest`0" priority="0" />
+      <Item value="e1" priority="0" />
+      <Item value="scheduler" priority="0" />
+      <Item value="ital" priority="0" />
+      <Item value="x" priority="0" />
+      <Item value="object" priority="1" />
+      <Item value="lock" priority="2" />
+      <Item value="AsyncLock`0" priority="1" />
+      <Item value="door" priority="1" />
+      <Item value="_skip" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="ManualRestEvent" priority="0" />
+      <Item value="mre" priority="3" />
+      <Item value="ParallelMergeOptions`0" priority="0" />
+      <Item value="timeInterval" priority="0" />
+      <Item value="CompositeDisposable`0" priority="0" />
+      <Item value="_query" priority="1" />
+      <Item value="class" priority="0" />
+      <Item value="State`0" priority="4" />
+      <Item value="Skip" priority="0" />
+      <Item value="StartingSkip" priority="0" />
+      <Item value="title`0" priority="0" />
+      <Item value="Elapsed" priority="0" />
+      <Item value="number" priority="0" />
+      <Item value="timer" priority="0" />
+      <Item value="TitleCount" priority="2" />
+      <Item value="IQueryable" priority="0" />
+      <Item value="releaseYear" priority="0" />
+      <Item value="_timerDispose" priority="2" />
+      <Item value="TimeoutInfo" priority="4" />
+      <Item value="to" priority="2" />
+      <Item value="_timeoutInfo" priority="0" />
+      <Item value="timeoutInfo" priority="1" />
+      <Item value="Enumerable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WCFOdataClient.NetflixOdata.NetflixCatalog">
+      <Item value="Titles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="7" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Take`1" priority="5" />
+      <Item value="ToObservable`1" priority="2" />
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="Skip`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WCFOdataClient.NetflixOdata.Title">
+      <Item value="Id" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ODataObservable.State`2">
+      <Item value="MakeODataObservableSequence`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RxODataClient.Netflix.NetflixCatalog">
+      <Item value="Titles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:RxODataClient.Netflix.Title">
+      <Item value="ReleaseYear" priority="1" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Take`1" priority="1" />
+      <Item value="Subscribe`0" priority="8" />
+      <Item value="Finally`1" priority="3" />
+      <Item value="ObserveOn`1" priority="2" />
+      <Item value="Timestamp`1" priority="0" />
+      <Item value="Zip`3" priority="1" />
+      <Item value="BufferWithCount`1" priority="0" />
+      <Item value="SubscribeOn`1" priority="2" />
+      <Item value="ObserveOnDispatcher`1" priority="2" />
+      <Item value="Skip`1" priority="0" />
+      <Item value="TimeInterval`1" priority="0" />
+      <Item value="Timeout`1" priority="0" />
+      <Item value="Synchronize`1" priority="0" />
+      <Item value="Do`1" priority="0" />
+      <Item value="SubscribeOnDispatcher`1" priority="0" />
+      <Item value="Throttle`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Concurrency.Scheduler">
+      <Item value="CurrentThread" priority="31" />
+      <Item value="Dispatcher" priority="61" />
+      <Item value="ThreadPool" priority="32" />
+      <Item value="Immediate" priority="1" />
+      <Item value="TaskPool" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="Set`0" priority="2" />
+      <Item value="WaitOne`0" priority="2" />
+      <Item value="Reset`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ManagedThreadId" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WPFTimestamp.Netflix.NetflixCatalog">
+      <Item value="CreateQuery`1" priority="0" />
+      <Item value="Execute`1" priority="0" />
+      <Item value="Titles" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="IsNullOrEmpty`0" priority="0" />
+      <Item value="IsNullOrWhiteSpace`0" priority="1" />
+      <Item value="Format`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsEnabled" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ListBox">
+      <Item value="Items" priority="6" />
+      <Item value="ScrollIntoView`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.ItemCollection">
+      <Item value="Add`0" priority="1" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="MoveCurrentToLast`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IDisposable">
+      <Item value="Dispose`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.Timestamped`1">
+      <Item value="Value" priority="1" />
+      <Item value="Timestamp" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WPFTimestamp.Netflix.Title">
+      <Item value="ShortName" priority="1" />
+      <Item value="ReleaseYear" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTimeOffset">
+      <Item value="Now" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="4" />
+      <Item value="TotalMilliseconds" priority="2" />
+      <Item value="Ticks" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Observable">
+      <Item value="Timer`0" priority="2" />
+      <Item value="Empty`1" priority="1" />
+      <Item value="Return`1" priority="0" />
+      <Item value="Defer`1" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Double">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Zip`3" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Subscribe`1" priority="0" />
+      <Item value="ToObservable`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WPFTimer.Netflix.Title">
+      <Item value="AudioFormats" priority="0" />
+      <Item value="ReleaseYear" priority="0" />
+      <Item value="ShortName" priority="1" />
+      <Item value="TinyUrl" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.TimeInterval`1">
+      <Item value="Value" priority="1" />
+      <Item value="Interval" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Concurrency.DispatcherScheduler">
+      <Item value="Schedule`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ODataObservable.State`2">
+      <Item value="_obs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:WCFOdataClient.NetflixOData.NetflixCatalog">
+      <Item value="Links" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.AutoResetEvent">
+      <Item value="WaitOne`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ODataObservable.ODataSequence`2">
+      <Item value="TimeInterval`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ODataObservable.ODataSequence`1+State">
+      <Item value="Skip" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int64">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBlock">
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeoutException">
+      <Item value="Message" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ODataObservable.DataSequence`1">
+      <Item value="Take`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reactive.Concurrency.Scheduler">
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="DispatcherScheduler`0" priority="90" />
+      <Item value="System" priority="63" />
+      <Item value="Reactive" priority="134" />
+      <Item value="Concurrency" priority="27" />
+      <Item value="Dispatcher" priority="31" />
+      <Item value="Title" priority="30" />
+      <Item value="TimeoutException`0" priority="58" />
+      <Item value="n" priority="31" />
+      <Item value="Timestamped" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reactive.Concurrency.DispatcherScheduler">
+      <Item value="Instance" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

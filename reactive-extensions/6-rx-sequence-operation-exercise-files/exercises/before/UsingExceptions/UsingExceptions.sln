@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingCatch", "UsingCatch\UsingCatch.csproj", "{8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingOnErrorResumeNext", "UsingOnErrorResumeNext\UsingOnErrorResumeNext.csproj", "{E53BEC80-767A-4E24-955A-2579C33C816C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingMultiOnError", "UsingMultiOnError\UsingMultiOnError.csproj", "{2BC40D91-A430-4994-A4D1-C01C5CCDA269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThrow", "UsingThrow\UsingThrow.csproj", "{A4CA0E4F-BC60-4174-B19A-5419575075CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingThrow2", "UsingThrow2\UsingThrow2.csproj", "{CAD31ED1-C545-4266-9AC8-FBEB71E962F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8}.Debug|x86.ActiveCfg = Debug|x86
+		{8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8}.Debug|x86.Build.0 = Debug|x86
+		{8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8}.Release|x86.ActiveCfg = Release|x86
+		{8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8}.Release|x86.Build.0 = Release|x86
+		{E53BEC80-767A-4E24-955A-2579C33C816C}.Debug|x86.ActiveCfg = Debug|x86
+		{E53BEC80-767A-4E24-955A-2579C33C816C}.Debug|x86.Build.0 = Debug|x86
+		{E53BEC80-767A-4E24-955A-2579C33C816C}.Release|x86.ActiveCfg = Release|x86
+		{E53BEC80-767A-4E24-955A-2579C33C816C}.Release|x86.Build.0 = Release|x86
+		{2BC40D91-A430-4994-A4D1-C01C5CCDA269}.Debug|x86.ActiveCfg = Debug|x86
+		{2BC40D91-A430-4994-A4D1-C01C5CCDA269}.Debug|x86.Build.0 = Debug|x86
+		{2BC40D91-A430-4994-A4D1-C01C5CCDA269}.Release|x86.ActiveCfg = Release|x86
+		{2BC40D91-A430-4994-A4D1-C01C5CCDA269}.Release|x86.Build.0 = Release|x86
+		{A4CA0E4F-BC60-4174-B19A-5419575075CD}.Debug|x86.ActiveCfg = Debug|x86
+		{A4CA0E4F-BC60-4174-B19A-5419575075CD}.Debug|x86.Build.0 = Debug|x86
+		{A4CA0E4F-BC60-4174-B19A-5419575075CD}.Release|x86.ActiveCfg = Release|x86
+		{A4CA0E4F-BC60-4174-B19A-5419575075CD}.Release|x86.Build.0 = Release|x86
+		{CAD31ED1-C545-4266-9AC8-FBEB71E962F0}.Debug|x86.ActiveCfg = Debug|x86
+		{CAD31ED1-C545-4266-9AC8-FBEB71E962F0}.Debug|x86.Build.0 = Debug|x86
+		{CAD31ED1-C545-4266-9AC8-FBEB71E962F0}.Release|x86.ActiveCfg = Release|x86
+		{CAD31ED1-C545-4266-9AC8-FBEB71E962F0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

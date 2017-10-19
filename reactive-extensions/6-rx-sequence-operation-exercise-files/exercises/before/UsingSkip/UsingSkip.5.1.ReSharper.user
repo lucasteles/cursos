@@ -1,0 +1,78 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FB531E26-9016-4363-9F6E-B0410DDDE5AA/f:Program.cs" caret="381" fromTop="16" />
+      <File id="B50308F7-9081-4031-889C-D9DF7C4C2A62/f:Program.cs" caret="352" fromTop="14" />
+      <File id="85654C36-2735-4893-BD91-A2CEEF0B32D4/f:Program.cs" caret="350" fromTop="14" />
+      <File id="D8AAE0DE-0754-40B0-9595-AFF7264762FA/f:Program.cs" caret="166" fromTop="10" />
+      <File id="14E62F31-4207-4439-90CC-EA437C872623/f:Program.cs" caret="355" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D8AAE0DE-0754-40B0-9595-AFF7264762FA/f:Program.cs" caret="13" fromTop="0" />
+      <File id="D8AAE0DE-0754-40B0-9595-AFF7264762FA/f:Program.cs" caret="305" fromTop="19" />
+      <File id="FB531E26-9016-4363-9F6E-B0410DDDE5AA/f:Program.cs" caret="381" fromTop="16" />
+      <File id="B50308F7-9081-4031-889C-D9DF7C4C2A62/f:Program.cs" caret="352" fromTop="14" />
+      <File id="85654C36-2735-4893-BD91-A2CEEF0B32D4/f:Program.cs" caret="350" fromTop="14" />
+      <File id="D8AAE0DE-0754-40B0-9595-AFF7264762FA/f:Program.cs" caret="166" fromTop="10" />
+      <File id="14E62F31-4207-4439-90CC-EA437C872623/f:Program.cs" caret="355" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="2" />
+      <Item value="from" priority="1" />
+      <Item value="Enum`0" priority="0" />
+      <Item value="Enumerable`0" priority="1" />
+      <Item value="select" priority="1" />
+      <Item value="sequence" priority="1" />
+      <Item value="new" priority="0" />
+      <Item value="int" priority="6" />
+      <Item value="NotFiniteNumberException`0" priority="1" />
+      <Item value="number" priority="6" />
+      <Item value="ValueType`0" priority="1" />
+      <Item value="value" priority="1" />
+      <Item value="args" priority="0" />
+      <Item value="index" priority="0" />
+      <Item value="static" priority="2" />
+      <Item value="Console`0" priority="4" />
+      <Item value="return" priority="1" />
+      <Item value="firstSequence" priority="0" />
+      <Item value="secondSequence" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Skip`1" priority="2" />
+      <Item value="Subscribe`0" priority="2" />
+      <Item value="Where`1" priority="2" />
+      <Item value="SkipUntil`2" priority="1" />
+      <Item value="Finally`1" priority="0" />
+      <Item value="Do`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Skip`1" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

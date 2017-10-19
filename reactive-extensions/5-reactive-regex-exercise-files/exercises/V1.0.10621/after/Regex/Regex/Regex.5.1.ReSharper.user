@@ -1,0 +1,130 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="A5956A90-9E47-42F0-8125-0F452E9CF66F/f:Program.cs" caret="0" fromTop="0" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="570" fromTop="18" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="4008" fromTop="24" />
+      <File id="766268BD-A901-466D-9AB7-E8E04C9EC5BE/f:Program.cs" caret="305" fromTop="12" />
+      <File id="7493CD4A-B252-40D6-986F-55AD95B60AFB/f:Program.cs" caret="48" fromTop="1" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7493CD4A-B252-40D6-986F-55AD95B60AFB/f:Program.cs" caret="1331" fromTop="32" />
+      <File id="7493CD4A-B252-40D6-986F-55AD95B60AFB/f:Program.cs" caret="983" fromTop="24" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="1040" fromTop="30" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="1040" fromTop="39" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="1040" fromTop="22" />
+      <File id="A5956A90-9E47-42F0-8125-0F452E9CF66F/f:Program.cs" caret="614" fromTop="12" />
+      <File id="A5956A90-9E47-42F0-8125-0F452E9CF66F/f:Program.cs" caret="334" fromTop="6" />
+      <File id="7493CD4A-B252-40D6-986F-55AD95B60AFB/f:Program.cs" caret="404" fromTop="16" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="1040" fromTop="23" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="1040" fromTop="21" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="1012" fromTop="26" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="428" fromTop="6" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="682" fromTop="14" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="346" fromTop="3" />
+      <File id="766268BD-A901-466D-9AB7-E8E04C9EC5BE/f:Program.cs" caret="624" fromTop="23" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="3432" fromTop="20" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="3122" fromTop="16" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="2119" fromTop="12" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="2472" fromTop="20" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="2774" fromTop="26" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="2614" fromTop="27" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="1605" fromTop="33" />
+      <File id="766268BD-A901-466D-9AB7-E8E04C9EC5BE/f:Program.cs" caret="13" fromTop="0" />
+      <File id="766268BD-A901-466D-9AB7-E8E04C9EC5BE/f:Program.cs" caret="305" fromTop="12" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="882" fromTop="28" />
+      <File id="35DDACAB-AFE4-4EA2-AE94-C753991827BC/f:Program.cs" caret="48" fromTop="1" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="13" fromTop="0" />
+      <File id="3B395FF2-5606-4A26-B0A3-AB28A248380A/f:RegexObservableFile.cs" caret="4008" fromTop="24" />
+      <File id="7493CD4A-B252-40D6-986F-55AD95B60AFB/f:Program.cs" caret="649" fromTop="21" />
+      <File id="7493CD4A-B252-40D6-986F-55AD95B60AFB/f:Program.cs" caret="66" fromTop="2" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.RegexOptions">
+      <Item value="Multiline" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="2" />
+      <Item value="string" priority="5" />
+      <Item value="streamReader" priority="1" />
+      <Item value="RegexOptions`0" priority="0" />
+      <Item value="regex" priority="12" />
+      <Item value="input" priority="8" />
+      <Item value="if" priority="0" />
+      <Item value="match" priority="14" />
+      <Item value="matchCount" priority="0" />
+      <Item value="for" priority="1" />
+      <Item value="var" priority="16" />
+      <Item value="index" priority="4" />
+      <Item value="Console`0" priority="6" />
+      <Item value="in" priority="2" />
+      <Item value="m" priority="5" />
+      <Item value="static" priority="2" />
+      <Item value="IObservable" priority="0" />
+      <Item value="Regex`0" priority="2" />
+      <Item value="while" priority="2" />
+      <Item value="Delegate`0" priority="1" />
+      <Item value="Func" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="null" priority="0" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="Match`0" priority="0" />
+      <Item value="yield return" priority="1" />
+      <Item value="RegexToEnum`0" priority="1" />
+      <Item value="from" priority="0" />
+      <Item value="MakeRegexObservable`0" priority="0" />
+      <Item value="ms" priority="2" />
+      <Item value="foreach" priority="1" />
+      <Item value="RegexMatchToEnum`0" priority="0" />
+      <Item value="sequence" priority="3" />
+      <Item value="state" priority="0" />
+      <Item value="disposable" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="ReadToEnd`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Regex">
+      <Item value="Match`0" priority="4" />
+      <Item value="Matches`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Success" priority="2" />
+      <Item value="NextMatch`0" priority="2" />
+      <Item value="Value" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.MatchCollection">
+      <Item value="GetEnumerator`0" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToObservable`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Subscribe`0" priority="4" />
+      <Item value="SkipUntil`2" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

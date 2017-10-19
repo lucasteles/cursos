@@ -1,0 +1,165 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="16" />
+      <Item value="var" priority="4" />
+      <Item value="from" priority="0" />
+      <Item value="Enumerable`0" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="sequence" priority="0" />
+      <Item value="bufferedSequence" priority="1" />
+      <Item value="buffer" priority="1" />
+      <Item value="foreach" priority="0" />
+      <Item value="IEnumerable" priority="1" />
+      <Item value="static" priority="2" />
+      <Item value="int" priority="7" />
+      <Item value="Random`0" priority="0" />
+      <Item value="new" priority="2" />
+      <Item value="Random" priority="0" />
+      <Item value="for" priority="0" />
+      <Item value="count" priority="1" />
+      <Item value="yield return" priority="0" />
+      <Item value="rand" priority="0" />
+      <Item value="RandomNumbers`0" priority="0" />
+      <Item value="list" priority="6" />
+      <Item value="Math`0" priority="0" />
+      <Item value="Rand" priority="0" />
+      <Item value="double" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="number" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="pass" priority="0" />
+      <Item value="os" priority="17" />
+      <Item value="len" priority="0" />
+      <Item value="scheduler" priority="0" />
+      <Item value="Scheduler`0" priority="4" />
+      <Item value="ThreadPoolScheduler`0" priority="0" />
+      <Item value="w" priority="0" />
+      <Item value="mos" priority="0" />
+      <Item value="ManualResetEvent`0" priority="0" />
+      <Item value="e" priority="3" />
+      <Item value="windowedSequence" priority="3" />
+      <Item value="length" priority="2" />
+      <Item value="is" priority="1" />
+      <Item value="List" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToObservable`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="BufferWithCount`1" priority="0" />
+      <Item value="Subscribe`0" priority="13" />
+      <Item value="BufferWithTimeOrCount`1" priority="0" />
+      <Item value="Count`1" priority="10" />
+      <Item value="First`1" priority="0" />
+      <Item value="SkipUntil`2" priority="1" />
+      <Item value="SubscribeOn`1" priority="1" />
+      <Item value="ObserveOn`1" priority="1" />
+      <Item value="Materialize`1" priority="0" />
+      <Item value="Dematerialize`1" priority="0" />
+      <Item value="Repeat`1" priority="0" />
+      <Item value="Synchronize`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="2" />
+      <Item value="Concat`1" priority="0" />
+      <Item value="LastOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="13" />
+      <Item value="ReadKey`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count" priority="4" />
+      <Item value="GetType`0" priority="0" />
+      <Item value="Sum`1" priority="1" />
+      <Item value="ToObservable`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Min`0" priority="0" />
+      <Item value="Max`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Concurrency.Scheduler">
+      <Item value="CurrentThread" priority="1" />
+      <Item value="NewThread" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="Set`0" priority="1" />
+      <Item value="WaitOne`0" priority="1" />
+      <Item value="Reset`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="400" fromTop="14" />
+      <File id="26EB2AEF-A10B-4EAB-96E4-8F1E5FD9D0E4/f:Program.cs" caret="425" fromTop="15" />
+      <File id="B7137145-07FC-4B1D-8582-833F1049E45F/f:Program.cs" caret="377" fromTop="13" />
+      <File id="4540489A-9A47-44AC-A23A-484CD1ABCD08/f:Program.cs" caret="708" fromTop="25" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="456" fromTop="17" />
+      <File id="9EFBE610-1E06-47A3-BAD8-3A513F373337/f:Program.cs" caret="630" fromTop="23" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="748" fromTop="23" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="1214" fromTop="29" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="1153" fromTop="42" />
+      <File id="9EFBE610-1E06-47A3-BAD8-3A513F373337/f:Program.cs" caret="589" fromTop="18" />
+      <File id="4540489A-9A47-44AC-A23A-484CD1ABCD08/f:Program.cs" caret="13" fromTop="0" />
+      <File id="4540489A-9A47-44AC-A23A-484CD1ABCD08/f:Program.cs" caret="685" fromTop="20" />
+      <File id="B7137145-07FC-4B1D-8582-833F1049E45F/f:Program.cs" caret="564" fromTop="24" />
+      <File id="B7137145-07FC-4B1D-8582-833F1049E45F/f:Program.cs" caret="844" fromTop="26" />
+      <File id="B7137145-07FC-4B1D-8582-833F1049E45F/f:Program.cs" caret="284" fromTop="10" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="68" fromTop="2" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="1334" fromTop="26" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="1168" fromTop="22" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="1312" fromTop="26" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="977" fromTop="20" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="1113" fromTop="25" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="624" fromTop="8" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="748" fromTop="19" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="868" fromTop="24" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="1032" fromTop="26" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="744" fromTop="17" />
+      <File id="26EB2AEF-A10B-4EAB-96E4-8F1E5FD9D0E4/f:Program.cs" caret="1390" fromTop="21" />
+      <File id="26EB2AEF-A10B-4EAB-96E4-8F1E5FD9D0E4/f:Program.cs" caret="1718" fromTop="22" />
+      <File id="26EB2AEF-A10B-4EAB-96E4-8F1E5FD9D0E4/f:Program.cs" caret="743" fromTop="13" />
+      <File id="C64B681F-8E9C-47B5-AEEF-9EDFFEB17A0D/f:Program.cs" caret="400" fromTop="14" />
+      <File id="26EB2AEF-A10B-4EAB-96E4-8F1E5FD9D0E4/f:Program.cs" caret="425" fromTop="15" />
+      <File id="B7137145-07FC-4B1D-8582-833F1049E45F/f:Program.cs" caret="377" fromTop="13" />
+      <File id="4540489A-9A47-44AC-A23A-484CD1ABCD08/f:Program.cs" caret="338" fromTop="12" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="50" fromTop="2" />
+      <File id="1BF2B84F-DEDF-4FEA-82D8-7411B7EDC8B3/f:Program.cs" caret="456" fromTop="17" />
+      <File id="9EFBE610-1E06-47A3-BAD8-3A513F373337/f:Program.cs" caret="378" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

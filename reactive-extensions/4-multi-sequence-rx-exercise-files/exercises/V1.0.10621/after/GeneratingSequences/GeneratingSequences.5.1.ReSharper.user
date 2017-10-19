@@ -1,0 +1,136 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Observable`0" priority="1" />
+      <Item value="return" priority="9" />
+      <Item value="true" priority="2" />
+      <Item value="n2" priority="1" />
+      <Item value="int" priority="10" />
+      <Item value="n1" priority="0" />
+      <Item value="seq" priority="1" />
+      <Item value="static" priority="4" />
+      <Item value="bool" priority="2" />
+      <Item value="number" priority="1" />
+      <Item value="resultSelector`0" priority="0" />
+      <Item value="Console`0" priority="2" />
+      <Item value="Scheduler`0" priority="6" />
+      <Item value="n" priority="1" />
+      <Item value="Thread`0" priority="0" />
+      <Item value="class" priority="1" />
+      <Item value="public" priority="3" />
+      <Item value="SequenceState`0" priority="3" />
+      <Item value="NextToLast" priority="3" />
+      <Item value="Last" priority="5" />
+      <Item value="next" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="new" priority="0" />
+      <Item value="sequenceState" priority="0" />
+      <Item value="second" priority="0" />
+      <Item value="first" priority="0" />
+      <Item value="sequence" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="_firstPass" priority="2" />
+      <Item value="if" priority="0" />
+      <Item value="false" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="System" priority="0" />
+      <Item value="Diagnostics" priority="0" />
+      <Item value="StackFrame`0" priority="1" />
+      <Item value="StackTrace`0" priority="0" />
+      <Item value="sf" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="scheduler" priority="0" />
+      <Item value="Program`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Observable">
+      <Item value="Generate`2" priority="1" />
+      <Item value="GetAwaiter`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="CompareTo`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Subscribe`0" priority="2" />
+      <Item value="SubscribeOn`1" priority="2" />
+      <Item value="ObserveOn`1" priority="2" />
+      <Item value="Where`1" priority="0" />
+      <Item value="Last`1" priority="0" />
+      <Item value="SkipUntil`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Concurrency.Scheduler">
+      <Item value="NewThread" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="2" />
+      <Item value="AllocateNamedDataSlot`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ManagedThreadId" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.MethodInfo">
+      <Item value="GetCurrentMethod`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodBase">
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Fibonacci.SequenceState">
+      <Item value="GetValue`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Diagnostics.StackFrame">
+      <Item value="GetMethod`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Fibonacci.Program">
+      <Item value="WhatThread`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/d:Properties/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="15" fromTop="1" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="201" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="512" fromTop="26" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1926" fromTop="36" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="389" fromTop="19" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="726" fromTop="46" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="512" fromTop="24" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="611" fromTop="28" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="442" fromTop="20" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1681" fromTop="32" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="85" fromTop="3" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1649" fromTop="17" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1802" fromTop="23" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1060" fromTop="21" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="786" fromTop="13" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1058" fromTop="15" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1196" fromTop="21" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1377" fromTop="13" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="1538" fromTop="19" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="593" fromTop="10" />
+      <File id="FB2E0D91-11CC-41EC-9206-732C0F750C85/f:Program.cs" caret="15" fromTop="1" />
+      <File id="94C26772-5372-4D95-9886-81CE535FFCEB/f:Program.cs" caret="201" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

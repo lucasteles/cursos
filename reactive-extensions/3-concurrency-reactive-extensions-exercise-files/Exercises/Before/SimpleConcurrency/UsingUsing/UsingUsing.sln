@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingUsing", "UsingUsing.csproj", "{7B33F35A-918D-4996-9801-5A63FEC81239}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposingFile", "..\DisposingFile\DisposingFile.csproj", "{B5756C26-221B-4A56-A11C-51E3B25A52D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B33F35A-918D-4996-9801-5A63FEC81239}.Debug|x86.ActiveCfg = Debug|x86
+		{7B33F35A-918D-4996-9801-5A63FEC81239}.Debug|x86.Build.0 = Debug|x86
+		{7B33F35A-918D-4996-9801-5A63FEC81239}.Release|x86.ActiveCfg = Release|x86
+		{7B33F35A-918D-4996-9801-5A63FEC81239}.Release|x86.Build.0 = Release|x86
+		{B5756C26-221B-4A56-A11C-51E3B25A52D1}.Debug|x86.ActiveCfg = Debug|x86
+		{B5756C26-221B-4A56-A11C-51E3B25A52D1}.Debug|x86.Build.0 = Debug|x86
+		{B5756C26-221B-4A56-A11C-51E3B25A52D1}.Release|x86.ActiveCfg = Release|x86
+		{B5756C26-221B-4A56-A11C-51E3B25A52D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

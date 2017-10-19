@@ -1,0 +1,128 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="586" fromTop="19" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1189" fromTop="28" />
+      <File id="E53BEC80-767A-4E24-955A-2579C33C816C/f:Program.cs" caret="620" fromTop="20" />
+      <File id="CAD31ED1-C545-4266-9AC8-FBEB71E962F0/f:Program.cs" caret="342" fromTop="14" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="788" fromTop="25" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="369" fromTop="14" />
+      <File id="E53BEC80-767A-4E24-955A-2579C33C816C/f:Program.cs" caret="297" fromTop="11" />
+      <File id="E53BEC80-767A-4E24-955A-2579C33C816C/f:Program.cs" caret="689" fromTop="29" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1165" fromTop="19" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1189" fromTop="21" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1037" fromTop="19" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1039" fromTop="19" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="801" fromTop="20" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1038" fromTop="20" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="981" fromTop="19" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="981" fromTop="18" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="13" fromTop="0" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="981" fromTop="19" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="981" fromTop="19" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="981" fromTop="14" />
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="572" fromTop="20" />
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="48" fromTop="1" />
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="572" fromTop="20" />
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="572" fromTop="20" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="13" fromTop="0" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="981" fromTop="19" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="981" fromTop="19" />
+      <File id="8832AB77-EDA1-40E0-B5CF-9FF3E5D8BBB8/f:Program.cs" caret="586" fromTop="19" />
+      <File id="2BC40D91-A430-4994-A4D1-C01C5CCDA269/f:Program.cs" caret="1189" fromTop="28" />
+      <File id="E53BEC80-767A-4E24-955A-2579C33C816C/f:Program.cs" caret="620" fromTop="20" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="568" fromTop="19" />
+      <File id="A4CA0E4F-BC60-4174-B19A-5419575075CD/f:Program.cs" caret="788" fromTop="25" />
+      <File id="CAD31ED1-C545-4266-9AC8-FBEB71E962F0/f:Program.cs" caret="342" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="6" />
+      <Item value="from" priority="3" />
+      <Item value="Enumerable`0" priority="3" />
+      <Item value="select" priority="3" />
+      <Item value="number" priority="9" />
+      <Item value="sequence" priority="2" />
+      <Item value="Exception`0" priority="6" />
+      <Item value="int" priority="12" />
+      <Item value="Console`0" priority="7" />
+      <Item value="scheduler" priority="0" />
+      <Item value="Observable`0" priority="13" />
+      <Item value="Scheduler`0" priority="0" />
+      <Item value="new" priority="3" />
+      <Item value="false" priority="0" />
+      <Item value="done" priority="0" />
+      <Item value="IObservable" priority="0" />
+      <Item value="sequences" priority="2" />
+      <Item value="NetTcpStyleUriParser`0" priority="0" />
+      <Item value="OnErrorResumeNext`1" priority="0" />
+      <Item value="if" priority="0" />
+      <Item value="InvalidOperationException`0" priority="7" />
+      <Item value="return" priority="2" />
+      <Item value="ObservableExtensions`0" priority="0" />
+      <Item value="Thread`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Select`2" priority="2" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="Subscribe`0" priority="4" />
+      <Item value="Catch`1" priority="10" />
+      <Item value="Finally`1" priority="1" />
+      <Item value="OnErrorResumeNext`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="MinValue" priority="2" />
+      <Item value="MaxValue" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Skip`1" priority="0" />
+      <Item value="ToObservable`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reactive.Concurrency.Scheduler">
+      <Item value="NewThread" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reactive.Linq.Observable">
+      <Item value="Return`1" priority="3" />
+      <Item value="Empty`1" priority="7" />
+      <Item value="OnErrorResumeNext`1" priority="0" />
+      <Item value="Throw`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="SafeWaitHandle" priority="0" />
+      <Item value="WaitOne`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ManagedThreadId" priority="2" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

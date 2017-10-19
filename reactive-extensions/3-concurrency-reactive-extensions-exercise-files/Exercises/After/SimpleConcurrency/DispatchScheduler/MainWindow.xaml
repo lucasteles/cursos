@@ -1,0 +1,22 @@
+﻿<Window x:Class="DispatchScheduler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <Button Name="Generate" Click="Generate_Click">Generate Sequence</Button>
+        <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+            <Label>Enumerable.Range(</Label>
+            <Label>First Number</Label>
+            <TextBox Name="First" Width="auto" >1</TextBox>
+            <Label>Count
+            </Label>
+            <TextBox Name="ValueCount"  Width="auto">3</TextBox>
+            <Label>)</Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label>Sequence</Label>
+            <TextBox IsReadOnly="true" Name="Sequence" Width="auto" MinWidth="100"></TextBox>
+        </StackPanel>
+        <Button Name="Stop" IsEnabled="false" Click="Stop_Click">Stop</Button>
+    </StackPanel>
+</Window>

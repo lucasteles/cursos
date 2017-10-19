@@ -1,0 +1,313 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="6BC2533D-E194-4FEE-A911-0BA992587F43/f:Program.cs" caret="0" fromTop="0" />
+      <File id="8F5860E9-BAF7-4DAD-9815-E8F58B920396/f:Program.cs" caret="1224" fromTop="14" />
+      <File id="14504E1E-32CF-4932-B55D-CEC662335DC9/f:Program.cs" caret="0" fromTop="0" />
+      <File id="6DF99B3F-1D71-4C5F-BB3D-66A45B49B0F6/f:Program.cs" caret="0" fromTop="0" />
+      <File id="60183FA5-B589-4E8A-BF7C-356CA010D066/f:Program.cs" caret="0" fromTop="0" />
+      <File id="D9093B1D-396B-475A-A686-81B0F5832CF6/f:Program.cs" caret="0" fromTop="0" />
+      <File id="65CBACD3-ED90-4FBA-86AB-723F5314FCF0/f:Program.cs" caret="0" fromTop="0" />
+      <File id="158DA7D3-BEA9-415F-8C79-AE7A94A5E3A8/f:Program.cs" caret="1971" fromTop="13" />
+      <File id="B5756C26-221B-4A56-A11C-51E3B25A52D1/f:characters.txt" caret="0" fromTop="0" />
+      <File id="B5756C26-221B-4A56-A11C-51E3B25A52D1/f:Program.cs" caret="1615" fromTop="22" />
+      <File id="80B9D6AC-1C30-45AB-A5C5-0C297F3255D1/f:Program.cs" caret="0" fromTop="0" />
+      <File id="0C4BEB1E-03A9-46BD-93A9-B4FDE4F96DCB/f:Program.cs" caret="1613" fromTop="31" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml" caret="998" fromTop="16" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1405" fromTop="11" />
+      <File id="7B33F35A-918D-4996-9801-5A63FEC81239/f:Program.cs" caret="899" fromTop="8" />
+      <File id="C3BC29BA-C884-4F75-840F-34E698033C03/f:Program.cs" caret="7" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="D9093B1D-396B-475A-A686-81B0F5832CF6/f:Program.cs" caret="1520" fromTop="19" />
+      <File id="D9093B1D-396B-475A-A686-81B0F5832CF6/f:Program.cs" caret="1299" fromTop="17" />
+      <File id="D9093B1D-396B-475A-A686-81B0F5832CF6/f:Program.cs" caret="1356" fromTop="16" />
+      <File id="D9093B1D-396B-475A-A686-81B0F5832CF6/f:Program.cs" caret="1118" fromTop="14" />
+      <File id="7B33F35A-918D-4996-9801-5A63FEC81239/f:Program.cs" caret="592" fromTop="6" />
+      <File id="7B33F35A-918D-4996-9801-5A63FEC81239/f:Program.cs" caret="2016" fromTop="42" />
+      <File id="7B33F35A-918D-4996-9801-5A63FEC81239/f:Program.cs" caret="1029" fromTop="23" />
+      <File id="7B33F35A-918D-4996-9801-5A63FEC81239/f:Program.cs" caret="2016" fromTop="42" />
+      <File id="158DA7D3-BEA9-415F-8C79-AE7A94A5E3A8/f:Program.cs" caret="2724" fromTop="37" />
+      <File id="158DA7D3-BEA9-415F-8C79-AE7A94A5E3A8/f:Program.cs" caret="2354" fromTop="9" />
+      <File id="158DA7D3-BEA9-415F-8C79-AE7A94A5E3A8/f:Program.cs" caret="3402" fromTop="43" />
+      <File id="158DA7D3-BEA9-415F-8C79-AE7A94A5E3A8/f:Program.cs" caret="2950" fromTop="29" />
+      <File id="158DA7D3-BEA9-415F-8C79-AE7A94A5E3A8/f:Program.cs" caret="1971" fromTop="13" />
+      <File id="7B33F35A-918D-4996-9801-5A63FEC81239/f:Program.cs" caret="1744" fromTop="12" />
+      <File id="B5756C26-221B-4A56-A11C-51E3B25A52D1/f:Program.cs" caret="732" fromTop="12" />
+      <File id="B5756C26-221B-4A56-A11C-51E3B25A52D1/f:Program.cs" caret="1642" fromTop="22" />
+      <File id="0C4BEB1E-03A9-46BD-93A9-B4FDE4F96DCB/f:Program.cs" caret="1613" fromTop="17" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1822" fromTop="12" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1822" fromTop="17" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml" caret="710" fromTop="13" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml" caret="552" fromTop="3" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1813" fromTop="15" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="2114" fromTop="25" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1812" fromTop="7" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1690" fromTop="18" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="2114" fromTop="15" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml" caret="1015" fromTop="17" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="2097" fromTop="23" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1073" fromTop="2" />
+      <File id="020161AD-532A-4F1C-ABB1-E87B0C38CD65/f:MainWindow.xaml.cs" caret="1592" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="38" />
+      <Item value="from" priority="9" />
+      <Item value="new" priority="15" />
+      <Item value="int" priority="28" />
+      <Item value="select" priority="11" />
+      <Item value="number" priority="14" />
+      <Item value="numbers" priority="3" />
+      <Item value="scheduler" priority="4" />
+      <Item value="static" priority="11" />
+      <Item value="void" priority="5" />
+      <Item value="Console`0" priority="46" />
+      <Item value="ThreadPoolScheduler`0" priority="2" />
+      <Item value="exception" priority="0" />
+      <Item value="Thread`0" priority="29" />
+      <Item value="observableNumbers" priority="5" />
+      <Item value="Interlocked`0" priority="4" />
+      <Item value="ref" priority="4" />
+      <Item value="SimultaneousUse" priority="1" />
+      <Item value="if" priority="4" />
+      <Item value="class" priority="2" />
+      <Item value="IDisposable`0" priority="12" />
+      <Item value="SimultaneousDelegates`0" priority="1" />
+      <Item value="SimultaneousDelegateCount" priority="0" />
+      <Item value="using" priority="2" />
+      <Item value="return" priority="9" />
+      <Item value="Observable`0" priority="9" />
+      <Item value="SimultaneousDelegatesCheck`0" priority="0" />
+      <Item value="ObservableExtensions`0" priority="0" />
+      <Item value="ObservableAwaiter" priority="0" />
+      <Item value="ImDone`0" priority="1" />
+      <Item value="d" priority="8" />
+      <Item value="ManualResetEvent`0" priority="6" />
+      <Item value="complete" priority="5" />
+      <Item value="Enumerable`0" priority="15" />
+      <Item value="disposable" priority="0" />
+      <Item value="ManualResetEvent" priority="0" />
+      <Item value="false" priority="13" />
+      <Item value="done" priority="1" />
+      <Item value="Scheduler`0" priority="57" />
+      <Item value="os" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="index" priority="2" />
+      <Item value="E1`0" priority="1" />
+      <Item value="uint" priority="0" />
+      <Item value="len" priority="0" />
+      <Item value="os1" priority="0" />
+      <Item value="length" priority="1" />
+      <Item value="q" priority="7" />
+      <Item value="oq" priority="7" />
+      <Item value="null" priority="9" />
+      <Item value="CompositeDisposable" priority="0" />
+      <Item value="s" priority="1" />
+      <Item value="ImmediateScheduler`0" priority="0" />
+      <Item value="ControlScheduler`0" priority="0" />
+      <Item value="ControlScheduler" priority="0" />
+      <Item value="DateTimeOffset" priority="0" />
+      <Item value="TimeSpan`0" priority="3" />
+      <Item value="Test`0" priority="0" />
+      <Item value="IList" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="c" priority="1" />
+      <Item value="n" priority="1" />
+      <Item value="l" priority="0" />
+      <Item value="oq1" priority="0" />
+      <Item value="a1" priority="0" />
+      <Item value="a2" priority="0" />
+      <Item value="a" priority="0" />
+      <Item value="b" priority="0" />
+      <Item value="public" priority="1" />
+      <Item value="override" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="OddCount" priority="0" />
+      <Item value="EvenCount" priority="0" />
+      <Item value="observableNumbers1" priority="0" />
+      <Item value="OddsNEvens`0" priority="0" />
+      <Item value="ArgumentOutOfRangeException`0" priority="0" />
+      <Item value="oddsNEvens" priority="7" />
+      <Item value="else" priority="2" />
+      <Item value="xs" priority="1" />
+      <Item value="object" priority="0" />
+      <Item value="obj" priority="0" />
+      <Item value="lock" priority="0" />
+      <Item value="Sequence" priority="4" />
+      <Item value="First" priority="0" />
+      <Item value="ValueCount" priority="0" />
+      <Item value="OnQueryContinueDrag`0" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="e" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="Button`0" priority="0" />
+      <Item value="sender" priority="1" />
+      <Item value="StopSequence" priority="2" />
+      <Item value="true" priority="9" />
+      <Item value="SequenceDisposable" priority="3" />
+      <Item value="DecoderFallbackException`0" priority="0" />
+      <Item value="try" priority="0" />
+      <Item value="Generate" priority="13" />
+      <Item value="sequenceDisposable" priority="1" />
+      <Item value="disp`0" priority="2" />
+      <Item value="Oops`0" priority="0" />
+      <Item value="Subject" priority="0" />
+      <Item value="ThreadStaticAttribute`0" priority="0" />
+      <Item value="query" priority="0" />
+      <Item value="observableQuery" priority="0" />
+      <Item value="subscription" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Threading" priority="0" />
+      <Item value="button" priority="2" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="Stop" priority="7" />
+      <Item value="_subscription" priority="2" />
+      <Item value="DispatcherScheduler`0" priority="0" />
+      <Item value="NavigationStoppedEventHandler`0" priority="0" />
+      <Item value="CleanUp`0" priority="0" />
+      <Item value="_subscribe" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToObservable`1" priority="11" />
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Concurrency.Scheduler">
+      <Item value="NewThread" priority="32" />
+      <Item value="ThreadPool" priority="8" />
+      <Item value="Immediate" priority="22" />
+      <Item value="CurrentThread" priority="21" />
+      <Item value="TaskPool" priority="1" />
+      <Item value="Dispatcher" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="32" />
+      <Item value="ReadKey`0" priority="10" />
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="12" />
+      <Item value="Sleep`0" priority="22" />
+      <Item value="CurrentContext" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ManagedThreadId" priority="10" />
+      <Item value="IsBackground" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Subscribe`0" priority="16" />
+      <Item value="GetAwaiter`1" priority="3" />
+      <Item value="Materialize`1" priority="0" />
+      <Item value="Synchronize`1" priority="6" />
+      <Item value="AsQbservable`1" priority="0" />
+      <Item value="Finally`1" priority="8" />
+      <Item value="ObserveOn`1" priority="13" />
+      <Item value="Delay`1" priority="3" />
+      <Item value="SubscribeOn`1" priority="13" />
+      <Item value="BufferWithCount`1" priority="0" />
+      <Item value="WindowWithCount`1" priority="0" />
+      <Item value="ToEnumerable`1" priority="0" />
+      <Item value="Repeat`1" priority="2" />
+      <Item value="Take`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Interlocked">
+      <Item value="Increment`0" priority="3" />
+      <Item value="Decrement`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Observable">
+      <Item value="Start`1" priority="2" />
+      <Item value="Synchronize`1" priority="0" />
+      <Item value="Range`0" priority="0" />
+      <Item value="Defer`1" priority="0" />
+      <Item value="ForkJoin`1" priority="0" />
+      <Item value="Return`1" priority="0" />
+      <Item value="Using`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.ObservableAwaiter`1">
+      <Item value="BeginAwait`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.ManualResetEvent">
+      <Item value="WaitOne`0" priority="4" />
+      <Item value="Set`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IDisposable">
+      <Item value="Dispose`0" priority="13" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Disposables.CompositeDisposable">
+      <Item value="Add`0" priority="0" />
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Concurrency.ImmediateScheduler">
+      <Item value="Schedule`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Runtime.Remoting.Contexts.Context">
+      <Item value="ContextProperties" priority="0" />
+      <Item value="ContextID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromSeconds`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.IList">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UsingSynchronize.OddsNEvens">
+      <Item value="EvenCount" priority="0" />
+      <Item value="OddCount" priority="0" />
+      <Item value="Check`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.TextBox">
+      <Item value="Text" priority="3" />
+      <Item value="CacheMode" priority="0" />
+      <Item value="Clear`0" priority="2" />
+      <Item value="MinWidth" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Button">
+      <Item value="IsEnabled" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Concurrency.NewThreadScheduler">
+      <Item value="Schedule`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:UsingUsing.disp">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Concurrency.DispatcherScheduler">
+      <Item value="Dispatcher" priority="0" />
+      <Item value="Schedule`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

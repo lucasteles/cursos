@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingZip", "UsingZip\UsingZip.csproj", "{864A329D-D669-413D-A699-12D55B5D6995}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZipDifferentLengths", "ZipDifferentLengths\ZipDifferentLengths.csproj", "{768C10AC-1AC2-406E-A37B-5E1BBD27443A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{864A329D-D669-413D-A699-12D55B5D6995}.Debug|x86.ActiveCfg = Debug|x86
+		{864A329D-D669-413D-A699-12D55B5D6995}.Debug|x86.Build.0 = Debug|x86
+		{864A329D-D669-413D-A699-12D55B5D6995}.Release|x86.ActiveCfg = Release|x86
+		{864A329D-D669-413D-A699-12D55B5D6995}.Release|x86.Build.0 = Release|x86
+		{768C10AC-1AC2-406E-A37B-5E1BBD27443A}.Debug|x86.ActiveCfg = Debug|x86
+		{768C10AC-1AC2-406E-A37B-5E1BBD27443A}.Debug|x86.Build.0 = Debug|x86
+		{768C10AC-1AC2-406E-A37B-5E1BBD27443A}.Release|x86.ActiveCfg = Release|x86
+		{768C10AC-1AC2-406E-A37B-5E1BBD27443A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

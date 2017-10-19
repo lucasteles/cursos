@@ -1,0 +1,55 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="852A4E13-00D2-46FD-AB9F-DF73B3193E11/f:Program.cs" caret="538" fromTop="21" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="852A4E13-00D2-46FD-AB9F-DF73B3193E11/f:Program.cs" caret="305" fromTop="12" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="foreach" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="ChunckOfData" priority="1" />
+      <Item value="string" priority="2" />
+      <Item value="new" priority="1" />
+      <Item value="char" priority="0" />
+      <Item value="StringSplitOptions`0" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="IndividualPieceOfData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringSplitOptions">
+      <Item value="RemoveEmptyEntries" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

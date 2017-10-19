@@ -1,0 +1,115 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="243" fromTop="13" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1093" fromTop="19" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1093" fromTop="24" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1093" fromTop="22" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1013" fromTop="23" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1013" fromTop="25" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1095" fromTop="22" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1013" fromTop="22" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1013" fromTop="22" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="208" fromTop="13" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="208" fromTop="6" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="1002" fromTop="24" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="857" fromTop="21" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="829" fromTop="21" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="149" fromTop="8" />
+      <File id="F869F65E-2023-4941-B53A-142CA4200A55/f:Program.cs" caret="13" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="1" />
+      <Item value="System" priority="3" />
+      <Item value="var" priority="20" />
+      <Item value="from" priority="5" />
+      <Item value="Enumerable`0" priority="6" />
+      <Item value="select" priority="5" />
+      <Item value="number" priority="6" />
+      <Item value="foreach" priority="5" />
+      <Item value="in" priority="1" />
+      <Item value="Console`0" priority="25" />
+      <Item value="query" priority="6" />
+      <Item value="observableQuery" priority="5" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="void" priority="7" />
+      <Item value="EndOfSeq`0" priority="0" />
+      <Item value="static" priority="6" />
+      <Item value="ImDone`0" priority="10" />
+      <Item value="EnvironmentVariableTarget`0" priority="2" />
+      <Item value="n" priority="3" />
+      <Item value="ThreadStaticAttribute`0" priority="1" />
+      <Item value="scheduler" priority="1" />
+      <Item value="Thread`0" priority="8" />
+      <Item value="Concurrency" priority="1" />
+      <Item value="Scheduler`0" priority="7" />
+      <Item value="int" priority="10" />
+      <Item value="ProcessNumber`0" priority="5" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="let" priority="0" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="yield return" priority="0" />
+      <Item value="test`0" priority="0" />
+      <Item value="Observer`0" priority="5" />
+      <Item value="string" priority="0" />
+      <Item value="Action`0" priority="2" />
+      <Item value="new" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Enumerable">
+      <Item value="Range`0" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="24" />
+      <Item value="ReadKey`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToObservable`1" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IObservable`1">
+      <Item value="Subscribe`0" priority="5" />
+      <Item value="SubscribeOn`1" priority="0" />
+      <Item value="ObserveOn`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="CurrentThread" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="ManagedThreadId" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Concurrency.Scheduler">
+      <Item value="TaskPool" priority="2" />
+      <Item value="ThreadPool" priority="3" />
+      <Item value="NewThread" priority="5" />
+      <Item value="CurrentThread" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Linq.Observer">
+      <Item value="Create`1" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Action">
+      <Item value="CreateDelegate`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
