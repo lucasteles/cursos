@@ -1,0 +1,5 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\SimpleApp\bin\SimpleApp.dll
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\SimpleApp\bin\SimpleApp.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\SimpleApp\obj\Debug\SimpleApp.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\SimpleApp\obj\Debug\SimpleApp.dll
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\SimpleApp\obj\Debug\SimpleApp.pdb

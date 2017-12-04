@@ -1,0 +1,5 @@
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\clien1\bin\Debug\clien1.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\clien1\bin\Debug\clien1.exe
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\clien1\bin\Debug\clien1.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\clien1\obj\Debug\clien1.exe
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\clien1\obj\Debug\clien1.pdb

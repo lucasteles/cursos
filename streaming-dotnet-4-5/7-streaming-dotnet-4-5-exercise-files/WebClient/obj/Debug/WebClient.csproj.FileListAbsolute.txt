@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebClient\bin\Debug\WebClient.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebClient\bin\Debug\WebClient.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebClient\bin\Debug\WebClient.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebClient\obj\Debug\WebClient.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebClient\obj\Debug\WebClient.pdb

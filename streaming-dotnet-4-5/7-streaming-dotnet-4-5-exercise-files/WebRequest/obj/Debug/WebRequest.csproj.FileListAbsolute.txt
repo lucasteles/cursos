@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebRequest\bin\Debug\WebRequest.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebRequest\bin\Debug\WebRequest.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebRequest\bin\Debug\WebRequest.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebRequest\obj\Debug\WebRequest.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebRequest\obj\Debug\WebRequest.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\WebRequest\obj\Debug\WebRequest.pdb

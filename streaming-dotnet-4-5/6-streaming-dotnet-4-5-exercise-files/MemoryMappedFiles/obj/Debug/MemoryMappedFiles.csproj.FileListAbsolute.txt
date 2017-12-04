@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryMappedFiles\bin\Debug\MemoryMappedFiles.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryMappedFiles\bin\Debug\MemoryMappedFiles.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryMappedFiles\bin\Debug\MemoryMappedFiles.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryMappedFiles\obj\Debug\MemoryMappedFiles.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryMappedFiles\obj\Debug\MemoryMappedFiles.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryMappedFiles\obj\Debug\MemoryMappedFiles.pdb

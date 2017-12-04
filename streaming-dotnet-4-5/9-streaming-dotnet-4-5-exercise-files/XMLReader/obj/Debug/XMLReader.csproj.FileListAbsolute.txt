@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLReader\bin\Debug\XMLReader.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLReader\bin\Debug\XMLReader.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLReader\bin\Debug\XMLReader.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLReader\obj\Debug\XMLReader.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLReader\obj\Debug\XMLReader.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLReader\obj\Debug\XMLReader.pdb

@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\BinaryAdapters\bin\Debug\BinaryAdapters.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\BinaryAdapters\bin\Debug\BinaryAdapters.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\BinaryAdapters\bin\Debug\BinaryAdapters.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\BinaryAdapters\obj\Debug\BinaryAdapters.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\BinaryAdapters\obj\Debug\BinaryAdapters.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\BinaryAdapters\obj\Debug\BinaryAdapters.pdb

@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\IsolatedStorageFileStream\bin\Debug\IsolatedStorageFileStream.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\IsolatedStorageFileStream\bin\Debug\IsolatedStorageFileStream.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\IsolatedStorageFileStream\bin\Debug\IsolatedStorageFileStream.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\IsolatedStorageFileStream\obj\Debug\IsolatedStorageFileStream.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\IsolatedStorageFileStream\obj\Debug\IsolatedStorageFileStream.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\IsolatedStorageFileStream\obj\Debug\IsolatedStorageFileStream.pdb

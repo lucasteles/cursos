@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLWriter\bin\Debug\XMLWriter.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLWriter\bin\Debug\XMLWriter.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLWriter\bin\Debug\XMLWriter.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLWriter\obj\Debug\XMLWriter.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLWriter\obj\Debug\XMLWriter.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\XMLWriter\obj\Debug\XMLWriter.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamReader\bin\Debug\StreamReader.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamReader\bin\Debug\StreamReader.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamReader\bin\Debug\StreamReader.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamReader\obj\Debug\StreamReader.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamReader\obj\Debug\StreamReader.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamReader\obj\Debug\StreamReader.pdb

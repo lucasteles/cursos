@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{4A2200E6-CF33-4097-B26C-44C9BD16EA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{E36172A0-7365-448B-A3DF-80EA7D85CA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compress", "Compress\Compress.csproj", "{C623D575-3E65-425D-9C0A-863A86D1E204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto", "Crypto\Crypto.csproj", "{1A286F41-1457-4A95-8C18-36B0B84C3A64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2200E6-CF33-4097-B26C-44C9BD16EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2200E6-CF33-4097-B26C-44C9BD16EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2200E6-CF33-4097-B26C-44C9BD16EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2200E6-CF33-4097-B26C-44C9BD16EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E36172A0-7365-448B-A3DF-80EA7D85CA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36172A0-7365-448B-A3DF-80EA7D85CA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36172A0-7365-448B-A3DF-80EA7D85CA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36172A0-7365-448B-A3DF-80EA7D85CA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C623D575-3E65-425D-9C0A-863A86D1E204}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C623D575-3E65-425D-9C0A-863A86D1E204}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C623D575-3E65-425D-9C0A-863A86D1E204}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C623D575-3E65-425D-9C0A-863A86D1E204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A286F41-1457-4A95-8C18-36B0B84C3A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A286F41-1457-4A95-8C18-36B0B84C3A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A286F41-1457-4A95-8C18-36B0B84C3A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A286F41-1457-4A95-8C18-36B0B84C3A64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

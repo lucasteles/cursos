@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\Client\bin\Debug\Client.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\Client\bin\Debug\Client.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\Client\bin\Debug\Client.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\Client\obj\Debug\Client.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\Client\obj\Debug\Client.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

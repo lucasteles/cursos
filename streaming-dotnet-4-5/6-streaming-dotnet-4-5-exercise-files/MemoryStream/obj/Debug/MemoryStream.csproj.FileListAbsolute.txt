@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryStream\bin\Debug\MemoryStream.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryStream\bin\Debug\MemoryStream.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryStream\bin\Debug\MemoryStream.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryStream\obj\Debug\MemoryStream.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryStream\obj\Debug\MemoryStream.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\MemoryStream\obj\Debug\MemoryStream.pdb

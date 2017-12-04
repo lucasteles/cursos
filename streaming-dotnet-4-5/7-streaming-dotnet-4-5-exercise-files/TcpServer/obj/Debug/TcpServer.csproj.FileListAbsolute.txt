@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Base Streams\BaseStreams\TcpServer\obj\Debug\TcpServer.pdb

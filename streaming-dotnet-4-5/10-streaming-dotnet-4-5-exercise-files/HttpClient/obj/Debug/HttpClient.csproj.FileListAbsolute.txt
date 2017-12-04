@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\Async\HttpClient\bin\Debug\HttpClient.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\Async\HttpClient\bin\Debug\HttpClient.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Async\HttpClient\bin\Debug\HttpClient.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\Async\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\Async\HttpClient\obj\Debug\HttpClient.exe
+C:\Users\mohamad\Desktop\Stream\Demos\Async\HttpClient\obj\Debug\HttpClient.pdb

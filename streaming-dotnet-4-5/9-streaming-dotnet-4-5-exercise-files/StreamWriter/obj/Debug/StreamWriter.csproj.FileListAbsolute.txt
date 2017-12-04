@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamWriter\bin\Debug\StreamWriter.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamWriter\obj\Debug\StreamWriter.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Users\mohamad\Desktop\Stream\Demos\StreamAdapters\StreamWriter\obj\Debug\StreamWriter.pdb

@@ -1,0 +1,6 @@
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\Compress\bin\Debug\Compress.exe.config
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\Compress\bin\Debug\Compress.exe
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\Compress\bin\Debug\Compress.pdb
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\Compress\obj\Debug\Compress.csprojResolveAssemblyReference.cache
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\Compress\obj\Debug\Compress.exe
+C:\Users\mohamad\Desktop\Stream\Demos\DecoratorStreams\Compress\obj\Debug\Compress.pdb
